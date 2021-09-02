@@ -7,3 +7,5 @@ Repository containing portfolio of data science projects completed by me for aca
   
 **Problem Statement**- Predict flight fare based on customer’s choice of date, time, airline etc. This will help the customers to plan travel expenses of a trip in advance. 
 Dataset contains different flight details of one year to train the model. This is a regression problem.
+
+**Solution**- This dataset has a lot of qualitative variables. I have done a lot of feature engineering to convert them to useful features. This features played important role in training the model. The **'
