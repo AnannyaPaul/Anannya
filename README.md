@@ -15,4 +15,4 @@ Dataset contains different flight details of one year to train the model. This i
 ## Project:- Ecommerce Customer Churn Analysis and Prediction
 **Dataset**- Dataset is collected from Kaggle. The dateset is present in 'E Commerce Dataset.xlsx'.
 
-**Problem Statement**- 
+**Problem Statement**- An online retail (E commerce) company wants to know the customers who are going to churn, so accordingly they can approach customer to offer some promos. This is a classification problem.
